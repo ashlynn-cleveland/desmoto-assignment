@@ -1,0 +1,49 @@
+/* universal styles */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.white {
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
+
+
+/* main styles */
+
+.green-decor {
+    background-color: mediumspringgreen;
+}
+
+.red-decor {
+    background-color: lightcoral;
+}
+
+.blue-decor {
+    background-color: skyblue;
+}
